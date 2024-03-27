@@ -1,10 +1,10 @@
-# ProjectA - Dodge3D
-- 3D 총알 피하기(Dodge3D) 게임 개발 프로젝트입니다.
+# ProjectA - Dodge3D (v0.0)
+- 3D 총알 피하기(Dodge3D) 게임 개발 프로젝트의 v0.0입니다.
 <br><br>
 
 
 ## Table of Contents
-- [ProjectA](#projecta)
+- [ProjectA - Dodge3D (v0.0)](#projecta---dodge3d-v00)
   - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
   - [How to get repository clone?](#how-to-get-repository-clone)
